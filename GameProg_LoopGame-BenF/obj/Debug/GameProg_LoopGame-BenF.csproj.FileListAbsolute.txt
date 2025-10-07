@@ -1,0 +1,8 @@
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\bin\Debug\GameProg_LoopGame-BenF.exe.config
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\bin\Debug\GameProg_LoopGame-BenF.exe
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\bin\Debug\GameProg_LoopGame-BenF.pdb
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\obj\Debug\GameProg_LoopGame-BenF.csproj.AssemblyReference.cache
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\obj\Debug\GameProg_LoopGame-BenF.csproj.CoreCompileInputs.cache
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\obj\Debug\GameProg_LoopGame-BenF.exe
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\obj\Debug\GameProg_LoopGame-BenF.pdb
+C:\Users\w0527459\Documents\GameProg_LoopGame-BenF\GameProg_LoopGame-BenF\obj\Debug\GameProg_LoopGame-BenF.exe.config
